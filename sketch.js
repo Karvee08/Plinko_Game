@@ -67,7 +67,7 @@ function setup() {
 
 function draw() {
   //black background
-  background(mistyrose);  
+  background("mistyrose");  
 
   Engine.update(engine);
 
